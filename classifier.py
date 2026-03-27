@@ -17,7 +17,11 @@ CATEGORY_MAP = {
             "post about cryptocurrency markets, bitcoin, ethereum, altcoins, trading, "
             "blockchain adoption, tokens and digital assets"
         ),
-        "keywords": ["crypto", "bitcoin", "ethereum", "btc", "eth", "altcoin", "trading", "token"],
+        "keywords": [
+            "crypto", "bitcoin", "ethereum", "btc", "eth", "altcoin", "trading",
+            "token", "blockchain", "investing", "vyb", "archon", "coin", "market",
+            "binance", "wallet", "defi", "web3", "hodl", "bull", "bear", "satoshi"
+        ],
         "negative": []
     },
 
@@ -25,7 +29,10 @@ CATEGORY_MAP = {
         "desc": (
             "post about leofinance, inleo platform, leo token, leo power and leo ecosystem"
         ),
-        "keywords": ["leo", "leofinance", "inleo", "leodex", "leo power"],
+        "keywords": [
+            "leo", "leofinance", "inleo", "leodex", "leo power", "leothreads",
+            "leopedia", "threads"
+        ],
         "negative": []
     },
 
@@ -33,7 +40,11 @@ CATEGORY_MAP = {
         "desc": (
             "post about hive blockchain, hive blog, hive community and hive ecosystem"
         ),
-        "keywords": ["hive", "hive blockchain", "hive power", "hive blog", "hp"],
+        "keywords": [
+            "hive", "hive blockchain", "hive power", "hive blog", "hp",
+            "hiveblog", "peakd", "ecency", "hive-engine", "proofofbrain",
+            "pob", "cent", "pimp", "neoxian", "palnet"
+        ],
         "negative": []
     },
 
@@ -41,7 +52,10 @@ CATEGORY_MAP = {
         "desc": (
             "post about hive-engine tokens, tribaldex, diesel pools and second layer tokens"
         ),
-        "keywords": ["hive-engine", "tribaldex", "diesel pool", "swap.hive", "layer 2"],
+        "keywords": [
+            "hive-engine", "tribaldex", "diesel pool", "swap.hive", "layer 2",
+            "second layer", "tribe", "tribes"
+        ],
         "negative": []
     },
 
@@ -49,7 +63,10 @@ CATEGORY_MAP = {
         "desc": (
             "post about decentralized finance, staking, yield farming and liquidity pools"
         ),
-        "keywords": ["defi", "staking", "yield", "liquidity", "apy", "apr"],
+        "keywords": [
+            "defi", "staking", "yield", "liquidity", "apy", "apr",
+            "yield farming", "pool", "protocol", "vault", "lock"
+        ],
         "negative": []
     },
 
@@ -57,7 +74,10 @@ CATEGORY_MAP = {
         "desc": (
             "post about nft collections, minting, digital art and blockchain collectibles"
         ),
-        "keywords": ["nft", "mint", "collection", "floor price", "opensea"],
+        "keywords": [
+            "nft", "mint", "collection", "floor price", "opensea",
+            "collectible", "nft game", "digital collectible"
+        ],
         "negative": []
     },
 
@@ -65,7 +85,16 @@ CATEGORY_MAP = {
         "desc": (
             "post about blockchain games like splinterlands, play to earn and crypto gaming"
         ),
-        "keywords": ["splinterlands", "sps", "p2e", "play to earn", "nft game", "ambush ability", "arcane foil", "epic elf", "life element", "attacks per round", "double strike", "spellbook", "cards", "strategies", "rulesets", "battle", "weak magic", "monsters", "mana cost", "summoner", "ranged monsters", "card collection", "players", "maxed cards"],
+        "keywords": [
+            "splinterlands", "sps", "p2e", "play to earn", "nft game",
+            "ambush ability", "arcane foil", "epic elf", "life element",
+            "attacks per round", "double strike", "spellbook", "cards",
+            "strategies", "rulesets", "battle", "weak magic", "monsters",
+            "mana cost", "summoner", "ranged monsters", "card collection",
+            "players", "maxed cards", "risingstar", "rising star",
+            "arcadecolony", "arcade colony", "play2earn", "entropia",
+            "thgaming", "rising star game", "vimm", "3speak gaming"
+        ],
         "negative": []
     },
 
@@ -73,7 +102,11 @@ CATEGORY_MAP = {
         "desc": (
             "post about programming, coding, backend, frontend and software development"
         ),
-        "keywords": ["code", "programming", "python", "javascript", "api", "backend"],
+        "keywords": [
+            "code", "programming", "python", "javascript", "api", "backend",
+            "frontend", "developer", "github", "script", "database", "sql",
+            "nodejs", "react", "software", "bug", "deploy"
+        ],
         "negative": []
     },
 
@@ -82,7 +115,13 @@ CATEGORY_MAP = {
             "post about artificial intelligence, machine learning, neural networks, "
             "chatgpt, gemini, grok, deepseek"
         ),
-        "keywords": ["ai", "chatgpt", "gpt", "gemini", "grok", "deepseek", "llm", "ai influencer", "generate","artificial", "ai"],
+        "keywords": [
+            "ai", "chatgpt", "gpt", "gemini", "grok", "deepseek", "llm",
+            "ai influencer", "generate", "artificial", "machine learning",
+            "neural network", "midjourney", "stable diffusion", "ai art",
+            "ai music", "ai video", "artificial intelligence", "claude",
+            "openai", "anthropic"
+        ],
         "negative": []
     },
 
@@ -90,7 +129,11 @@ CATEGORY_MAP = {
         "desc": (
             "post about hacking, cybersecurity, exploits, privacy and security topics"
         ),
-        "keywords": ["hacking", "cybersecurity", "exploit", "privacy", "security"],
+        "keywords": [
+            "hacking", "cybersecurity", "exploit", "privacy", "security",
+            "vulnerability", "phishing", "malware", "vpn", "encryption",
+            "cyber attack", "data breach"
+        ],
         "negative": []
     },
 
@@ -98,15 +141,27 @@ CATEGORY_MAP = {
         "desc": (
             "post about video games, gameplay and gaming experiences"
         ),
-        "keywords": ["game", "gaming", "gameplay", "pc gaming", "console", "playing", "horror game", "the game", "playthrough", "steam", "epic games", "xbox", "playstation"],
-        "negative": []
+        "keywords": [
+            "game", "gaming", "gameplay", "pc gaming", "console", "playing",
+            "horror game", "the game", "playthrough", "steam", "epic games",
+            "xbox", "playstation", "ps5", "nintendo", "switch", "fps", "rpg",
+            "mmorpg", "open world", "gamer", "streamer", "twitch"
+        ],
+        "negative": [
+            "splinterlands", "sps", "p2e", "play to earn", "risingstar",
+            "actifit", "sportstalk"
+        ]
     },
 
     "finance": {
         "desc": (
             "post about finance, investing, money, stock market and business"
         ),
-        "keywords": ["finance", "investment", "money", "profit", "income"],
+        "keywords": [
+            "finance", "investment", "money", "profit", "income",
+            "stock", "market", "portfolio", "trading", "economy",
+            "interest rate", "inflation", "bank", "assets"
+        ],
         "negative": []
     },
 
@@ -114,7 +169,11 @@ CATEGORY_MAP = {
         "desc": (
             "post about startups, business ideas, product building and making money"
         ),
-        "keywords": ["startup", "business", "entrepreneur", "saas", "revenue"],
+        "keywords": [
+            "startup", "business", "entrepreneur", "saas", "revenue",
+            "founder", "product", "launch", "idea", "ctp", "hustler",
+            "side hustle", "passive income"
+        ],
         "negative": []
     },
 
@@ -122,7 +181,11 @@ CATEGORY_MAP = {
         "desc": (
             "post about digital marketing, seo, branding and content creation"
         ),
-        "keywords": ["marketing", "seo", "branding", "content", "growth"],
+        "keywords": [
+            "marketing", "seo", "branding", "content", "growth",
+            "audience", "social media", "ads", "campaign", "viral",
+            "influencer", "engagement"
+        ],
         "negative": []
     },
 
@@ -130,23 +193,42 @@ CATEGORY_MAP = {
         "desc": (
             "post about digital art, drawing, painting and creative work"
         ),
-        "keywords": ["art", "drawing", "painting", "illustration", "design"],
-        "negative": ["attack power", "recharge ability", "crafting"]
+        "keywords": [
+            "art", "drawing", "painting", "illustration", "design",
+            "sketch", "digitalart", "artwork", "creative", "canvas",
+            "watercolor", "pencil", "comic", "comics", "sketchbook",
+            "creativecoin", "alienarthive", "handmade"
+        ],
+        "negative": [
+            "attack power", "recharge ability", "crafting", "actifit",
+            "photography", "photo", "camera"
+        ]
     },
 
     "daily report": {
         "desc": (
             "post about daily report curation"
         ),
-        "keywords": ["daily", "q𝐮𝐚𝐥𝐢𝐭𝐲 posts of the day", "post link", "report", "curation"],
-        "negative": ["actifit"]
+        "keywords": [
+            "daily", "quality posts of the day", "post link", "report",
+            "curation", "aliveandthriving", "alive and thriving",
+            "hive open circle", "daily quality", "post collection",
+            "curation report", "daily picks", "curated posts"
+        ],
+        "negative": ["actifit", "report card", "actifit report"]
     },
 
     "photography": {
         "desc": (
             "post about photography, camera work and visual storytelling"
         ),
-        "keywords": ["photo", "photography", "camera", "portrait", "landscape", "mobile photography","technique", "liketu"],
+        "keywords": [
+            "photo", "photography", "camera", "portrait", "landscape",
+            "mobile photography", "technique", "liketu", "photofeed",
+            "monomad", "blackandwhite", "photographylovers",
+            "astrophotography", "macro", "exposure", "lens", "shutter",
+            "photoshop", "lightroom", "wednesdaywalk"
+        ],
         "negative": []
     },
 
@@ -154,23 +236,36 @@ CATEGORY_MAP = {
         "desc": (
             "post about writing, storytelling, essays and creative content"
         ),
-        "keywords": ["writing", "story", "essay", "fiction", "poetry"],
-        "negative": []
+        "keywords": [
+            "writing", "story", "essay", "fiction", "poetry",
+            "poem", "prose", "freewrite", "inkwell", "silverbloggers",
+            "literature", "literatos", "poet", "narrative", "short story",
+            "creative writing", "blog post", "clubdepoesia"
+        ],
+        "negative": ["tutorial", "guide", "mcgi", "actifit"]
     },
 
     "music": {
         "desc": (
             "post about music, songs, production and sound creation"
         ),
-        "keywords": ["music", "song", "beat", "album", "producer", "bts", "arirang"],
-        "negative": []
+        "keywords": [
+            "music", "song", "beat", "album", "producer", "bts", "arirang",
+            "track", "musician", "instrument", "guitar", "piano", "hiphop",
+            "rap", "3speak", "bandcamp", "threespeak", "musician", "concert"
+        ],
+        "negative": ["risingstar", "rising star game"]
     },
 
     "video": {
         "desc": (
             "post about video creation, youtube, editing, streaming and content production"
         ),
-        "keywords": ["video", "youtube", "editing", "stream", "content creator"],
+        "keywords": [
+            "video", "youtube", "editing", "stream", "content creator",
+            "vimm", "3speak", "streaming", "live", "vlog", "shorts",
+            "thumbnail", "filmmaker"
+        ],
         "negative": []
     },
 
@@ -178,15 +273,23 @@ CATEGORY_MAP = {
         "desc": (
             "post about daily life, personal experiences and motivation"
         ),
-        "keywords": ["life", "daily", "experience", "lifestyle", "story"],
-        "negative": []
+        "keywords": [
+            "life", "daily", "experience", "lifestyle", "story",
+            "family", "home", "culture", "community", "personal",
+            "thought", "reflection", "morning", "evening", "routine"
+        ],
+        "negative": ["actifit", "curation", "report card", "tutorial"]
     },
 
     "opinion": {
         "desc": (
             "post expressing personal opinion, thoughts and perspectives"
         ),
-        "keywords": ["i think", "i believe", "opinion", "my view"],
+        "keywords": [
+            "i think", "i believe", "opinion", "my view",
+            "perspective", "thoughts on", "my take", "in my opinion",
+            "i feel", "controversial"
+        ],
         "negative": []
     },
 
@@ -194,7 +297,11 @@ CATEGORY_MAP = {
         "desc": (
             "post about travel, tourism and exploring places"
         ),
-        "keywords": ["travel", "trip", "tourism", "vacation", "adventure"],
+        "keywords": [
+            "travel", "trip", "tourism", "vacation", "adventure",
+            "worldmappin", "travelfeed", "city", "country", "destination",
+            "tourist", "explore", "journey", "road trip"
+        ],
         "negative": []
     },
 
@@ -202,7 +309,11 @@ CATEGORY_MAP = {
         "desc": (
             "post about food, cooking, recipes and meals"
         ),
-        "keywords": ["food", "recipe", "cooking", "meal", "restaurant"],
+        "keywords": [
+            "food", "recipe", "cooking", "meal", "restaurant",
+            "kitchen", "dish", "ingredient", "taste", "chicken",
+            "dinner", "lunch", "breakfast", "baking", "chef"
+        ],
         "negative": []
     },
 
@@ -210,7 +321,10 @@ CATEGORY_MAP = {
         "desc": (
             "post about fashion, clothing and style"
         ),
-        "keywords": ["fashion", "outfit", "style", "clothes", "brand"],
+        "keywords": [
+            "fashion", "outfit", "style", "clothes", "brand",
+            "wear", "dress", "accessories", "lookbook", "ootd"
+        ],
         "negative": []
     },
 
@@ -218,7 +332,15 @@ CATEGORY_MAP = {
         "desc": (
             "post about fitness, workouts, health and exercise"
         ),
-        "keywords": ["fitness", "gym", "workout", "exercise", "health", "took a walk", "walk over", "steps", "walking", "actifit", "run", "runner", "marathon", "race", "powerhiking", "raceday"],
+        "keywords": [
+            "fitness", "gym", "workout", "exercise", "health",
+            "took a walk", "walk over", "steps", "walking", "actifit",
+            "run", "runner", "marathon", "race", "powerhiking", "raceday",
+            "movetoearn", "move2earn", "sportstalk", "strava2hive",
+            "runningproject", "stepn", "iamalivechallenge",
+            "aliveandthriving", "hive-193552", "move to earn",
+            "activity", "active", "calories", "km", "miles"
+        ],
         "negative": []
     },
 
@@ -226,15 +348,25 @@ CATEGORY_MAP = {
         "desc": (
             "post about sports, teams, matches and competitions"
         ),
-        "keywords": ["sports", "match", "team", "score", "league"],
-        "negative": []
+        "keywords": [
+            "sports", "match", "team", "score", "league",
+            "skateboarding", "skatehype", "skate", "skatehive",
+            "football", "soccer", "basketball", "tennis", "swimming",
+            "athlete", "competition", "championship", "tournament"
+        ],
+        "negative": ["actifit", "movetoearn", "move2earn", "strava2hive"]
     },
 
     "nature": {
         "desc": (
             "post about nature, environment, wildlife and outdoor activities"
         ),
-        "keywords": ["nature", "forest", "animal", "wildlife", "environment"],
+        "keywords": [
+            "nature", "forest", "animal", "wildlife", "environment",
+            "flower", "tree", "ocean", "mountain", "waterfall",
+            "sunset", "sunrise", "bird", "cat", "dog", "plant",
+            "garden", "outdoor", "sky", "cloud", "astronomy", "space"
+        ],
         "negative": []
     },
 
@@ -242,7 +374,11 @@ CATEGORY_MAP = {
         "desc": (
             "post teaching something, tutorials and learning content"
         ),
-        "keywords": ["learn", "tutorial", "guide", "education", "lesson"],
+        "keywords": [
+            "learn", "tutorial", "guide", "education", "lesson",
+            "how to", "step by step", "tips", "explain", "course",
+            "teach", "knowledge", "skill", "beginner", "introduction"
+        ],
         "negative": []
     },
 
@@ -250,7 +386,11 @@ CATEGORY_MAP = {
         "desc": (
             "post about science, research, physics, biology and discoveries"
         ),
-        "keywords": ["science", "research", "experiment", "physics", "biology"],
+        "keywords": [
+            "science", "research", "experiment", "physics", "biology",
+            "stem", "stemsocial", "chemistry", "astronomy", "space weather",
+            "discovery", "study", "data", "nutrition", "health science"
+        ],
         "negative": []
     },
 
@@ -258,7 +398,10 @@ CATEGORY_MAP = {
         "desc": (
             "post about historical events, wars and past civilizations"
         ),
-        "keywords": ["history", "war", "ancient", "empire", "civilization"],
+        "keywords": [
+            "history", "war", "ancient", "empire", "civilization",
+            "historical", "century", "medieval", "revolution", "dynasty"
+        ],
         "negative": []
     },
 
@@ -266,7 +409,12 @@ CATEGORY_MAP = {
         "desc": (
             "post about movies, tv shows, anime and pop culture"
         ),
-        "keywords": ["movie", "anime", "series", "tv", "entertainment"],
+        "keywords": [
+            "movie", "anime", "series", "tv", "entertainment",
+            "film", "cinetv", "review", "television", "episode",
+            "season", "netflix", "disney", "pop culture", "meme",
+            "comic", "superhero"
+        ],
         "negative": []
     },
 
@@ -274,23 +422,62 @@ CATEGORY_MAP = {
         "desc": (
             "post reporting news, updates and current events"
         ),
-        "keywords": ["news", "update", "breaking", "report"],
-        "negative": []
+        "keywords": [
+            "news", "update", "breaking", "report",
+            "breakingnews", "worldnews", "geopolitics",
+            "journalism", "press", "media", "current events"
+        ],
+        "negative": ["actifit", "report card"]
     },
 
     "politics": {
         "desc": (
             "post about politics, government and society"
         ),
-        "keywords": ["politics", "government", "election", "law"],
+        "keywords": [
+            "politics", "government", "election", "law",
+            "geopolitics", "war", "ukraine", "iran", "russia",
+            "president", "policy", "congress", "senate", "military",
+            "sanctions", "diplomacy"
+        ],
         "negative": []
+    },
+
+    "religion": {
+        "desc": (
+            "post about religion, faith, spirituality and biblical topics"
+        ),
+        "keywords": [
+            "mcgi", "mcgicares", "bible", "religion", "christianity",
+            "theoldpath", "the old path", "prayer", "church", "god",
+            "faith", "spiritual", "gospel", "christian", "oldpath",
+            "jesus", "scripture", "worship", "sermon"
+        ],
+        "negative": []
+    },
+
+    "diy": {
+        "desc": (
+            "post about DIY projects, crafts, handmade items and creative making"
+        ),
+        "keywords": [
+            "diy", "handmade", "crafts", "craft", "crochet", "knitting",
+            "diyhub", "hivediy", "needlework", "tutorial", "creative",
+            "handmade", "sewing", "crochet", "bracelet", "ring", "jewelry",
+            "collage", "paper craft", "origami", "woodwork"
+        ],
+        "negative": ["actifit"]
     },
 
     "promotional": {
         "desc": (
             "post promoting something, advertising or investment opportunity"
         ),
-        "keywords": ["buy", "profit", "earn", "referral", "promo"],
+        "keywords": [
+            "buy", "profit", "earn", "referral", "promo",
+            "airdrop", "giveaway", "affiliate", "discount",
+            "limited offer", "join now", "sign up"
+        ],
         "negative": []
     },
 }
